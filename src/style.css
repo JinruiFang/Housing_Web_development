@@ -1,0 +1,607 @@
+/* Jinrui's css start here*/
+.topBar {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    background-color: #09122f;
+    padding: .5rem;
+    padding-bottom: 1rem;
+}
+
+
+.topBar a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.mapSection {
+    display: none;
+}
+
+.maph2 {
+    font-weight: 300;
+    font-size: x-large;
+    background-color: #081336;
+    color: white;
+    margin-top: 1.15rem;
+    padding-left: 3rem;
+}
+
+.Mapfilter {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.btn {
+    background-color: #142660;
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+    margin-left: 1.25rem;
+    font-size: large;
+}
+
+.topBar ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+.topBar li {
+    margin: 0 1rem;
+    display: inline;
+    transition: all 0.25s ease-out;
+}
+
+
+.topBar li:hover {
+    color: #f0f0f0;
+    border-bottom: 0.5rem solid #f0f0f0;
+}
+
+
+h1 {
+    font-family: 'Merriweather', Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+
+.head205 div {
+    display: inline;
+}
+
+.headline p {
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: large;
+}
+
+.headContainer {
+    max-width: 960px;
+    margin-right: auto;
+    margin-top: 2cm;
+    padding: 1rem;
+}
+
+.headline {
+    color: white;
+    margin-top: 0;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    background-image: url('./data/space-needle.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: #0084af;
+    text-align: center;
+}
+
+
+/* Style the search bar */
+.search {
+    background-color: #142660;
+    width: 100%;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Style the search bar */
+input[type=search] {
+    all: unset;
+    font: 16px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+/* Style the text in placeholder */
+::placeholder {
+    color: #fff;
+    opacity: 0.7;
+}
+
+/* Style the button */
+button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+}
+
+/* Style the search icon */
+svg {
+    color: #fff;
+    fill: currentColor;
+    width: 24px;
+    height: 24px;
+    padding: 10px;
+}
+
+/* Style the text area */
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(217, 217, 217);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+/* Style the submit button */
+input[type=submit] {
+    background-color: #142660;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add dark blue color */
+input[type=submit]:hover {
+    background-color: #05154a;
+}
+
+/* Add a background color and some padding around the User Information form */
+.UserInformation {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.filter li {
+    width: 400px;
+}
+
+.filterIn {
+    background-color: #09122f;
+}
+
+h2 {
+    font-weight: 300;
+    background-color: #09122f;
+    color: white;
+    padding-left: 3rem;
+}
+
+footer {
+    background-color: bisque;
+}
+
+section div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.houseInfo div {
+    display: flex;
+    flex: 0 0 250px;
+    background-color: white;
+    margin: 0.5rem;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16), 0 1px 3px rgba(0, 0, 0, 0.23);
+}
+
+.houseInfo img {
+    width: 20rem;
+    height: 15rem;
+}
+
+main a {
+    text-decoration: none;
+}
+
+section div div p {
+    padding: .5rem 1rem;
+    text-align: center;
+    color: black;
+}
+
+section div div img {
+    border-radius: 10px 10px 0 0;
+}
+
+label {
+    display: block;
+    font-size: large;
+}
+
+.responseBar {
+    margin-left: 0;
+    font-size: 1.5rem;
+    padding-bottom: 5%;
+}
+
+
+/* Jinrui's css end here*/
+
+/* Qirun's css start here*/
+.img205 {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    background-position: center;
+    border-radius: 10px;
+    height: 5cm;
+}
+
+
+.card-item {
+    padding: 1em;
+    display: inline;
+}
+
+.disLink {
+    cursor: default;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+
+.head205 section {
+    display: inline;
+}
+
+
+
+.flex-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.icon-item {
+    flex: auto;
+    display: inline;
+}
+
+.containerj {
+    margin-bottom: 1.25rem;
+}
+
+.description {
+    padding-left: 1cm;
+    padding-right: 1cm;
+    margin: 1.25rem;
+    line-height: 1.25;
+}
+
+.h1-address,
+.h1-address1 {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.interior,
+.interior_feature_table {
+    margin-top: 1.25rem;
+}
+
+/* Jiani's css start here*/
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.tablesubh {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.spacingfix {
+    color: white;
+}
+
+.JZtableheading {
+    background-color: lightgray;
+    font-size: 20px;
+    width: 100%;
+}
+
+.Int_Feature {
+    width: 100%;
+    table-layout: fixed;
+    overflow: auto;
+    height: auto;
+    border-spacing: 0px;
+    text-align: left;
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
+
+
+.Int_Feature td {
+    text-align: left;
+    column-width: 50%;
+}
+
+.Int_Feature th {
+    column-width: 50%;
+    text-align: left;
+}
+
+.Exercise a {
+    font-size: x-small;
+}
+
+.twondfooter {
+    font-size: 10px;
+}
+
+/* Jiani's css end here*/
+
+/* for map page */
+.leaflet-container {
+    height: 60rem;
+    position: relative;
+    width: 100vw;
+}
+
+.mapPic {
+    background-position: center;
+    border-radius: 10px;
+    height: 10rem;
+}
+
+/* for map page */
+
+
+@media (min-width: 0px) {
+    .headline {
+        padding-top: 6rem;
+        margin-top: -3rem;
+    }
+
+    .mapSection {
+        display: inline;
+    }
+
+    .topBar {
+        position: fixed;
+    }
+
+    .search {
+        margin-left: 30%;
+        width: 400px;
+    }
+
+    .filter li {
+        width: 100%;
+    }
+
+    .h1-address {
+        font-size: 20px;
+    }
+
+    .disLink {
+        cursor: auto;
+        pointer-events: auto;
+        text-decoration: none;
+    }
+
+    .headline p {
+        font-size: large;
+    }
+
+    .img205 {
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-position: center;
+        border-radius: 10px;
+        height: 5cm;
+    }
+
+    .Exercise a {
+        font-size: medium;
+    }
+}
+
+
+@media (min-width: 598px) {
+    .headline {
+        padding-top: 6rem;
+        margin-top: -3rem;
+    }
+
+    .mapSection {
+        display: inline;
+    }
+
+    .topBar {
+        position: fixed;
+    }
+
+    .search {
+        margin-left: 30%;
+        width: 400px;
+    }
+
+    .filter li {
+        width: 100%;
+    }
+
+    .h1-address {
+        font-size: 20px;
+    }
+
+    .disLink {
+        cursor: auto;
+        pointer-events: auto;
+        text-decoration: none;
+    }
+
+    .headline p {
+        font-size: large;
+    }
+
+    .img205 {
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-position: center;
+        border-radius: 10px;
+        height: 5cm;
+    }
+
+    .Exercise a {
+        font-size: medium;
+    }
+}
+
+@media (min-width: 768px) {
+    .headline {
+        padding-top: 6rem;
+        margin-top: -3rem;
+    }
+
+    .mapSection {
+        display: inline;
+    }
+
+    .topBar {
+        position: fixed;
+    }
+
+    .search {
+        margin-left: 30%;
+        width: 400px;
+    }
+
+    .filter li {
+        width: 100%;
+    }
+
+    .h1-address,
+    .h1-address1 {
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .disLink {
+        cursor: auto;
+        pointer-events: auto;
+        text-decoration: none;
+    }
+
+    .headline p {
+        font-size: large;
+    }
+
+    .img205 {
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-position: center;
+        border-radius: 10px;
+        height: 10cm;
+    }
+
+    .Exercise a {
+        font-size: medium;
+    }
+}
+
+@media (min-width: 1179px) {
+    .headline {
+        padding-top: 6rem;
+        margin-top: -3rem;
+    }
+
+    .mapSection {
+        display: inline;
+    }
+
+    .topBar {
+        position: fixed;
+    }
+
+    .search {
+        margin-left: 30%;
+        width: 400px;
+    }
+
+    .filter li {
+        width: 100%;
+    }
+
+    .h1-address,
+    .h1-address1 {
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .h1-address1 {
+        margin-top: 3cm;
+    }
+
+    .disLink {
+        cursor: auto;
+        pointer-events: auto;
+        text-decoration: none;
+    }
+
+    .headline p {
+        font-size: large;
+    }
+
+    .img205 {
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-position: center;
+        border-radius: 10px;
+        height: 10cm;
+    }
+
+    .Exercise a {
+        font-size: medium;
+    }
+}

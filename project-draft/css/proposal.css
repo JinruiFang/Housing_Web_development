@@ -1,0 +1,48 @@
+
+body{
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img{
+    height: 5cm;
+    width: 5cm;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    background-color: bisque;
+}
+
+head-container, body-container{
+    display: flex;
+}
+
+.head-box{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic1{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.problem-box{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.app-box{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+

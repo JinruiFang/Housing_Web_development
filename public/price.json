@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Adams",
+    "price": "207,500"
+  },
+  {
+    "name": "Asotin",
+    "price": "262,754"
+  },
+  {
+    "name": "Benton",
+    "price": "358,194"
+  },
+  {
+    "name": "Chelan",
+    "price": "446,565"
+  },
+  {
+    "name": "Clallam",
+    "price": "375,380"
+  },
+  {
+    "name": "Clark",
+    "price": "466,489"
+  },
+  {
+    "name": "Columbia",
+    "price": "240,942"
+  },
+  {
+    "name": "Cowlitz",
+    "price": "371,761"
+  },
+  {
+    "name": "Douglas",
+    "price": "351,733"
+  },
+  {
+    "name": "Ferry",
+    "price": "227,780"
+  },
+  {
+    "name": "Franklin",
+    "price": "328,323"
+  },
+  {
+    "name": "Garfield",
+    "price": "200,651"
+  },
+  {
+    "name": "Grant",
+    "price": "271,160"
+  },
+  {
+    "name": "Grays Harbor",
+    "price": "296,275"
+  },
+  {
+    "name": "Island",
+    "price": "514,520"
+  },
+  {
+    "name": "Jefferson",
+    "price": "453,948 "
+  },
+  {
+    "name": "King",
+    "price": "817,547"
+  },
+  {
+    "name": "Kitsap",
+    "price": "491,622 "
+  },
+  {
+    "name": "Kittitas",
+    "price": "385,319"
+  },
+  {
+    "name": "Klickitat",
+    "price": "350,534"
+  },
+  {
+    "name": "Lewis",
+    "price": "332,537"
+  },
+  {
+    "name": "Lincoln",
+    "price": "218,647"
+  },
+  {
+    "name": "Mason",
+    "price": "341,401 "
+  },
+  {
+    "name": "Okanogan",
+    "price": "245,374 "
+  },
+  {
+    "name": "Pacific",
+    "price": "237,450"
+  },
+  {
+    "name": "Pend Oreille",
+    "price": "291,037"
+  },
+  {
+    "name": "Pierce",
+    "price": "460,394"
+  },
+  {
+    "name": "San Juan",
+    "price": "656,479 "
+  },
+  {
+    "name": "Skagit",
+    "price": "467,661"
+  },
+  {
+    "name": "Skamania",
+    "price": "373,066"
+  },
+  {
+    "name": "Snohomish",
+    "price": "600,890"
+  },
+  {
+    "name": "Spokane",
+    "price": "366,410"
+  },
+  {
+    "name": "Stevens",
+    "price": "267,534"
+  },
+  {
+    "name": "Thurston",
+    "price": "444,225"
+  },
+  {
+    "name": "Wahkiakum",
+    "price": "293,858"
+  },
+  {
+    "name": "Walla Walla",
+    "price": "301,916"
+  },
+  {
+    "name": "Whatcom",
+    "price": "520,145"
+  },
+  {
+    "name": "Whitman",
+    "price": "292,246"
+  },
+  {
+    "name": "Yakima",
+    "price": "277,321"
+  }
+]
